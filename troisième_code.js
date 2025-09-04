@@ -1,3 +1,5 @@
+//Ajout du code pour la troisieme fonctionnalité qui permet d'ajouter des élements dans la page dernier (représenter par un bloc bleu)
+
 // Attendre que le DOM soit complètement chargé
 document.addEventListener('DOMContentLoaded', () => {
   

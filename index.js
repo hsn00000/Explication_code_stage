@@ -1,3 +1,5 @@
+// Ce code permet de modifier l'ordre des élements de mon formulaire + masquer les champs importants + Ajout des descriptions etc
+
 // Attendre que le DOM soit complètement chargé avant d'exécuter le script
 document.addEventListener('DOMContentLoaded', () => {
   

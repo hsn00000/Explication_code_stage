@@ -1,3 +1,5 @@
+//Ce deuxieme code permet de combiner l'unité de tarification avec le prix car ce sont deux attributs différents
+
 // Attendre que le DOM soit complètement chargé
 document.addEventListener("DOMContentLoaded", function () {
   
